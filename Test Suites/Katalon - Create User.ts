@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Katalon - Create User</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>aa2e08cf-31b8-4150-ad27-da56052d296b</testSuiteGuid>
+   <testCaseLink>
+      <guid>d96b9095-accd-43a6-b6f3-d1e46b43ae40</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Katalon/Create user</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f2d7d447-d673-4ea0-bab6-58794ea09e89</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ListUsers</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f2d7d447-d673-4ea0-bab6-58794ea09e89</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>age</value>
+         <variableId>30926945-ee76-4990-ba0a-7b5dcaa57bcc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f2d7d447-d673-4ea0-bab6-58794ea09e89</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>b33b9c7c-12bd-4db5-8b9b-38ca51551528</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f2d7d447-d673-4ea0-bab6-58794ea09e89</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>8d2e58bd-7568-4d7b-a307-c7c3abbd9898</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f2d7d447-d673-4ea0-bab6-58794ea09e89</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>avatar</value>
+         <variableId>b44b4fc7-a673-465b-a0d6-96409650a4a4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f2d7d447-d673-4ea0-bab6-58794ea09e89</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>gender</value>
+         <variableId>5cf729e2-3d26-42f3-8e97-b40a5057603f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

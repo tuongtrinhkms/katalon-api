@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2bb3c9cc-5a3a-42da-ba76-7b6eeed1cbdd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>30926945-ee76-4990-ba0a-7b5dcaa57bcc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b33b9c7c-12bd-4db5-8b9b-38ca51551528</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d2e58bd-7568-4d7b-a307-c7c3abbd9898</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b44b4fc7-a673-465b-a0d6-96409650a4a4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5cf729e2-3d26-42f3-8e97-b40a5057603f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('ListUsers').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>30926945-ee76-4990-ba0a-7b5dcaa57bcc</id>
+      <masked>false</masked>
+      <name>age</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ListUsers').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>b33b9c7c-12bd-4db5-8b9b-38ca51551528</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ListUsers').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>8d2e58bd-7568-4d7b-a307-c7c3abbd9898</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ListUsers').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>b44b4fc7-a673-465b-a0d6-96409650a4a4</id>
+      <masked>false</masked>
+      <name>avatar</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ListUsers').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>5cf729e2-3d26-42f3-8e97-b40a5057603f</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+</TestCaseEntity>

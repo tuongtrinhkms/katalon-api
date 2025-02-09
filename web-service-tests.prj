@@ -6,8 +6,10 @@
    <UUID>59fb72c9-f8b9-4298-b770-93ff0ed0a3d6</UUID>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>10.1.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>D:\projects\ipipeline\automation\katalon-api\katalon-api\web-service-tests.prj</projectFileLocation>
+   <projectFileLocation>D:\projects\ipipeline\automation\katalon-api\web-service-tests.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
